@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Control de Temperatura en un Edificio Inteligente
 
 Este proyecto implementa un sistema que controla la temperatura en diferentes zonas de un edificio inteligente para optimizar el consumo de energía.
@@ -27,3 +28,6 @@ El uso de funciones permite:
 
 ## Lenguaje
 Python
+=======
+# control-temperatura-edificio
+>>>>>>> cd38ca712e3a8a19a25a8833cb30e25a14645f0e
